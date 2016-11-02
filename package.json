@@ -1,0 +1,27 @@
+{
+  "name": "anora",
+  "version": "1.0.0",
+  "description": "Figure out if a word needs \"an\" or \"a\" in front of it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeman-industries/anora.git"
+  },
+  "keywords": [
+    "grammar",
+    "an",
+    "a",
+    "word",
+    "string",
+    "char"
+  ],
+  "author": "Freeman Industries <nabil@instafork.com> (http://freemans.website)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeman-industries/anora/issues"
+  },
+  "homepage": "https://github.com/freeman-industries/anora#readme"
+}
