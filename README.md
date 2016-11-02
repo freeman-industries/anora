@@ -2,6 +2,11 @@
 
 Figure out if a words needs "an" or "a" in front of it.
 
+## Installation
+```
+npm install --save anora
+```
+
 ## Example
 
 ```
