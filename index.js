@@ -10,7 +10,7 @@ anora("object") // 'an'
 anora("freeman") // 'a'
 */
 
-var anora = function(word){
+module.exports = function(word){
 	var char = word[0];
 
 	if(['a', 'e', 'i', 'o', 'u'].indexOf(char) > -1){
