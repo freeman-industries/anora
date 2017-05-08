@@ -1,6 +1,6 @@
 {
   "name": "anora",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Figure out if a word needs \"an\" or \"a\" in front of it.",
   "main": "index.js",
   "scripts": {
